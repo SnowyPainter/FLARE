@@ -5,18 +5,12 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "formal-language-engine"
 version = "0.1.0"
-description = "Traceable automata algorithms and checked pumping-lemma proofs"
+description = "FLARE: learn formal languages through executable constructions, counterexamples, and proof traces"
 requires-python = ">=3.10"
 dependencies = ["graphviz>=0.20,<1"]
-
-[project.optional-dependencies]
-test = ["pytest>=7"]
 
 [project.scripts]
 fle = "formal_language_engine.main:main"
 
 [tool.setuptools.packages.find]
 include = ["formal_language_engine*"]
-
-[tool.pytest.ini_options]
-testpaths = ["tests"]

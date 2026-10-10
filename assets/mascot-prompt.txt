@@ -1,0 +1,3 @@
+Generated with the built-in image_gen tool. Final prompt:
+
+Use case: logo-brand. Create an original mascot icon for FLARE, an educational Python formal-language and automata project. A small curious flame spirit whose body is a warm glowing flame, looking thoughtfully at a tiny orbit of three connected circular automaton states, one double-ring state. Sophisticated friendly flat illustration with subtle soft shading, crisp dark outlines, readable silhouette at small size, warm flame against cool state nodes. Centered square composition, generous transparent margin. No text, no letters, no watermark. Genuinely transparent background. This is a repository README mascot, charming but not a busy scene.
